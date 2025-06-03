@@ -3,8 +3,11 @@ Rencana Belajar
 - Javascript
   * ES6
   * Framework
-    ^ Vue
+    ^ Angular
     ^ React
+    ^ Vue
+- PHP Framework
+  ^ Laravel
 - PHP Framework
   ^ Laravel
 - Struktur Data Dasar
