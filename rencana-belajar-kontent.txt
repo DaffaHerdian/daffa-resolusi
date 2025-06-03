@@ -5,6 +5,10 @@ Rencana Belajar
   * Framework
     ^ Angular
     ^ React
+    ^ Vue
 - PHP Framework
   ^ Laravel
+- PHP Framework
+  ^ Laravel
+- Struktur Data Dasar
 - Python
